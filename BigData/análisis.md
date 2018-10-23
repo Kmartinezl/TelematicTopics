@@ -6,9 +6,9 @@
 
 
 
-### Alejandro Velasquez Uribe
-### Keila Andrea Martínez Lagares
-### 21 de octubre de 2018
+#### Alejandro Velasquez Uribe
+#### Keila Andrea Martínez Lagares
+#### 21 de octubre de 2018
 
 
 
@@ -16,17 +16,17 @@
 
 
 
-### Universidad EAFIT
-### ST0263 – Tópicos especiales en Telemática
-### Edwin Montoya
+#### Universidad EAFIT
+#### ST0263 – Tópicos especiales en Telemática
+#### Edwin Montoya
+-----------------------------------------------------------------------------------------------------------------------------
 
-
-**1. Problema a resolver**
-Análisis de Sentimientos usando Data Streaming desde Twitter con Kafka y Spark.
+**1. Problema a resolver:**
+     Análisis de Sentimientos usando Data Streaming desde Twitter con Kafka y Spark.
 
 Lo que se busca hacer con esta aplicación es analizar los Tweets de diferentes usuarios para saber su  posición frente a un tema, estas posiciones pueden ser positivas, negativas o neutras.
 
-**2. Arquitectura preliminar de datos**
+**2. Arquitectura preliminar de datos:**
 
 * **Ciclo de vida:**
 Businses question
