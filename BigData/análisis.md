@@ -22,7 +22,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 **1. Problema a resolver:**
-     Análisis de Sentimientos usando Data Streaming desde Twitter con Kafka y Spark.
+Análisis de Sentimientos usando Data Streaming desde Twitter con Kafka y Spark.
 
 Lo que se busca hacer con esta aplicación es analizar los Tweets de diferentes usuarios para saber su  posición frente a un tema, estas posiciones pueden ser positivas, negativas o neutras.
 
