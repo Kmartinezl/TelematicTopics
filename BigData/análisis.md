@@ -29,12 +29,12 @@ Lo que se busca hacer con esta aplicación es analizar los Tweets de diferentes 
 **2. Arquitectura preliminar de datos:**
 
 * **Ciclo de vida:**
-Businses question
-Data source
-Data ingestion
-Data storage
-Data processing and analytics
-Data app (visualization IE)
+Businses question,
+Data source,
+Data ingestion,
+Data storage,
+Data processing and analytics,
+Data app (visualization IE).
 
 * **Procesamiento:** Los datos, al comportarse como transmisión, son procesados con un producto de transmisión llamado Apache Spark Streaming.
 
@@ -50,7 +50,7 @@ Los datos son provisionados directamente desde la plataforma de Twitter usando s
 
 **4. Sistema de ingesta de datos:**
 
-Una vez que leamos los datos desde Twitter, estos son enviados a Kafka topic usando Kafka producer, Usamos Kafka ya que es usado para hacer tuberías(pipelines) de datos en streaming  y aplicaciones de streaming
+Una vez que leamos los datos desde Twitter, estos son enviados a Kafka topic usando Kafka producer, Usamos Kafka ya que es usado para hacer tuberías(pipelines) de datos en streaming  y aplicaciones de streaming.
             
 * **Tecnologías a utilizar:**  Kafka
 
