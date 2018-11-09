@@ -50,7 +50,7 @@ Los datos son provisionados directamente desde la plataforma de Twitter usando s
 
 **4. Sistema de ingesta de datos:**
 
-Una vez que leamos los datos desde Twitter, estos son enviados a Kafka topic usando Kafka producer, Usamos Kafka ya que es usado para hacer tuberías(pipelines) de datos en streaming  y aplicaciones de streaming
+Una vez que leamos los datos desde Twitter, estos son enviados a Kafka topic usando Kafka producer, Usamos Kafka ya que es usado para hacer tuberías(pipelines) de datos en streaming  y aplicaciones de streaming.
             
 * **Tecnologías a utilizar:**  Kafka
 
