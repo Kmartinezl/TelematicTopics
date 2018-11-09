@@ -29,11 +29,11 @@ Lo que se busca hacer con esta aplicación es analizar los Tweets de diferentes 
 **2. Arquitectura preliminar de datos:**
 
 * **Ciclo de vida:**
-Businses question
-Data source
-Data ingestion
-Data storage
-Data processing and analytics
+Businses question,
+Data source,
+Data ingestion,
+Data storage,
+Data processing and analytics,
 Data app (visualization IE)
 
 * **Procesamiento:** Los datos, al comportarse como transmisión, son procesados con un producto de transmisión llamado Apache Spark Streaming.
