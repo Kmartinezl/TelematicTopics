@@ -27,7 +27,7 @@ Recuerda descargar la versión segun el sistema operativo en el que estés traba
     
 Van a aparecer una serie de descargas que tomarán aproximadamente de 1-2 min según la velocidad de la red. 
 
-* Una vez que aparezca el mensaje _Build success_ , ejecutamos por último el siguiente comando: 
+* Una vez que aparezca el mensaje _Build success_, ejecutamos por último el siguiente comando: 
 
    ```
    mvn package
