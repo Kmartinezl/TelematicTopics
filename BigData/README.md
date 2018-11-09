@@ -1,4 +1,4 @@
-## PASOS PARA UNA CORRECTA EJECUCIÓN DEL PROYECTO
+## EJECUCIÓN DEL PROYECTO
  
  Para poder visualizar el proyecto, es necesario tener primero el ambiente configurado:
  * Primero vamos a descargar un ambiente de virtualización como VMware o VirtualBox. Para los siguientes ejemplos pasos vamos a estar utilizando VirtualBox:
