@@ -49,7 +49,7 @@ Los datos son provisionados directamente desde la plataforma de Twitter usando s
 
 **4. Sistema de ingesta de datos:**
 
-Apache Storm no hace uso de almacenamiento para la realización de datastreaming al contrario, pasa directo de la fuente de datos hasta su procesamiento, por lo cual no tenemos ingesta de datos como tal.
+Apache storm es el que recopila y analiza en tiempo real.
             
 * **Tecnologías a utilizar:**  Storm
 
@@ -61,5 +61,5 @@ Aunque el procesamiento de los datos en tiempo real, estamos utilizando Redis Da
 
 
 **6. Análisis de datos:**
-Usaremos el componente de Spark Streaming el cual nos permite procesar data en     tiempo real, como toda la data entra en memoria el proceso de análisis es mucho más rápido, además de que podemos computar todo esto en paralelo. 
-* **Tecnologías a utilizar:**  Apache Spark.          
+Usaremos el componente de Apache Storm el cual nos permite procesar data en tiempo real, como toda la data entra en memoria el proceso de análisis es mucho más rápido, además de que podemos computar todo esto en paralelo. 
+* **Tecnologías a utilizar:**  Apache Storm.          
